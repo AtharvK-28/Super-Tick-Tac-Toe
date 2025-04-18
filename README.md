@@ -1,8 +1,10 @@
 **Super Tic Tac Toe - Python Tkinter Edition**
+
 This is an advanced Super Tic Tac Toe game implemented in Python using the Tkinter GUI library. Instead of the classic 3x3 board, this version contains 9 Tic Tac Toe boards (3x3 grid of 3x3 boards), and you must win on the main board by winning individual small boards.
 
 
 **How to Play**
+
 The game is for two players: Player 1 (X) and Player 2 (O).
 
 Players are prompted to enter their names at the start.
@@ -17,6 +19,7 @@ The goal is to win 3 small boards in a row (horizontal, vertical, or diagonal) o
 
 
 **Features**
+
 Interactive GUI with clearly separated small boards
 
 Highlights the current active board for user guidance
@@ -37,6 +40,7 @@ Displays game status and whose turn it is
 
 
 **Game Flow**
+
 Start: Run the script, enter player names when prompted.
 
 Play: Click on valid cells to make a move.
